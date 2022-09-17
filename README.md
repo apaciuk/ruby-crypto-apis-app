@@ -1,4 +1,4 @@
-# crypto-apis  (wrapper for various crypto api requests)
+# crypto-apis (wrapper for various crypto api requests) in Ruby
 
 ## Setup
 
